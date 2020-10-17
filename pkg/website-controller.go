@@ -7,6 +7,7 @@ import (
 	"io"
 	"log"
 	//"github.com/luksa/website-controller/pkg/v1"
+  "github.com/gbih/k8s-website-controller/pkg/v1"
 	"io/ioutil"
 	"strings"
 )
