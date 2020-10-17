@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"io"
 	"log"
-	"github.com/luksa/website-controller/pkg/v1"
+	//"github.com/luksa/website-controller/pkg/v1"
 	"io/ioutil"
 	"strings"
 )
